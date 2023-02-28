@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "module": "esnext",
+    "target": "es6",
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node"
+  },
+  "files": ["src/index.tsx"],
+  "include": ["./src/"]
+}
